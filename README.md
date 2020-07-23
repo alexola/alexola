@@ -13,7 +13,7 @@ You can find me 🌍 :
 - [Dribble](https://dribbble.com/alexOlalde)
 - [Instagram](https://www.instagram.com/alexolaldephoto) 
 
-
+![alexola's github stats](https://github-readme-stats.vercel.app/api?username=alexola&show_icons=true&theme=gruvbox)
 <!--
 **alexola/alexola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
