@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+## About me in code
 ```` JS
 
 const alex = {
@@ -8,7 +10,7 @@ const alex = {
  }
  
  ````
-You can find me 🌍 : 
+## You can find me 🌍 : 
 - [Twitter](https://twitter.com/xalexoxx)
 - [Dribble](https://dribbble.com/alexOlalde)
 - [Instagram](https://www.instagram.com/alexolaldephoto) 
