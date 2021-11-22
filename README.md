@@ -9,6 +9,12 @@ const alex = {
   tools: [React, Vue, Node, Storybook, Styled-Components, Jest, Docker],
  }
  
+ WIP 
+ 
+ const appDev{
+    code: [Xcode ,IOS , Swift]
+ }
+ 
  ````
 ## You can find me 🌍 : 
 
