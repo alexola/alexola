@@ -7,6 +7,7 @@ const alex = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Vue, Node, Storybook, Styled-Components, Jest, Docker],
+  more tools: [ Figma, Sketch , Adobe ] 
  }
  
  WIP 
