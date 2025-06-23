@@ -17,17 +17,9 @@ const alex = {
  }
  
  ````
-## You can find me 🌍 : 
-<div style="background-color:white;">
-<a href="https://codepen.io/scd19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="scd19" height="20" width="20" /></a>
-<a href="https://twitter.com/@xalexox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@xalexox" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/alejandro-olalde-miranda-7b012464" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alejandro-olalde-miranda-7b012464" height="20" width="20" /></a>
-<a href="https://instagram.com/alexolaldephoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alexolaldephoto" height="20" width="20" /></a>
-<a href="https://dribbble.com/alexolalde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="alexolalde" height="20" width="20" /></a>
-</div>
-
-
-![alexola's github stats](https://github-readme-stats.vercel.app/api?username=alexola&show_icons=true&theme=gruvbox)
+![](https://nirzak-streak-stats.vercel.app/?user=alexola&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=alexola&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)
+[![GitHub Trends SVG](https://api.githubtrends.io/alexola/svg/avgupta456/langs)](https://githubtrends.io)
 
 - 🔭 I’m currently working on as a Freelance
 
