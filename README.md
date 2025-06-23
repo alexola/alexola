@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World&animation=fadeIn&textBg=false&reversal=true
+<img src="https://capsule-render.vercel.app/api?text=Hello World!&animation=fadeIn&type=waving&color=gradient&height=200&width=auto"/>
 
 ### Hi there 👋
 
