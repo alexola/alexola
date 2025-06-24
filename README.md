@@ -21,7 +21,7 @@ There’s something truly exciting about **uncovering vulnerabilities** and figu
 - **Platforms**: Hack The Box, TryHackMe, CTFtime
 
 ---
-[LinkedIn](https://www.linkedin.com/in/alejandro-olalde-miranda-7b012464/)
+
 ## 🚀 Current Focus
 - Diving deeper into **penetration testing**
 - Building security scripts and automation tools
