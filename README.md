@@ -11,8 +11,8 @@ There’s something truly exciting about **uncovering vulnerabilities** and figu
 - 📚 Exploring new tech and security methodologies
 
 ---
-### 🔧 [My Python Security Tool](#)
-**Cyber** is a modular, menu-driven toolkit that I’m developing from scratch to learn, test, and apply real-world security concepts through code. It’s part of my journey to gain confidence in building **custom cybersecurity tools** and to contribute something meaningful to the community.
+### 🔧 [Raven Pulse](https://github.com/alexola/cyber)
+**Cyber**  is a modular, menu-driven toolkit that I’m developing from scratch to learn, test, and apply real-world security concepts through code. It’s part of my journey to gain confidence in building **custom cybersecurity tools** and to contribute something meaningful to the community.
 ---
 ## 🛠️ Tech & Tools
 - **Languages**: Python, JavaScript, Bash
@@ -21,7 +21,7 @@ There’s something truly exciting about **uncovering vulnerabilities** and figu
 - **Platforms**: Hack The Box, TryHackMe, CTFtime
 
 ---
-
+[LinkedIn](https://www.linkedin.com/in/alejandro-olalde-miranda-7b012464/)
 ## 🚀 Current Focus
 - Diving deeper into **penetration testing**
 - Building security scripts and automation tools
@@ -34,7 +34,7 @@ There’s something truly exciting about **uncovering vulnerabilities** and figu
 I'm always open to collaborating on security-focused projects or simply exchanging knowledge.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-olalde-miranda-7b012464/)
-- 🧑‍💻 GitHub Repos: Check out my [projects](#) and feel free to reach out!
+- 🧑‍💻 GitHub Repos: Check out my [projects](https://github.com/alexola?tab=projects) and feel free to reach out!
 
 ---
 
