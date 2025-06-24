@@ -54,6 +54,3 @@ Thanks for stopping by! 🔍🧠🔥
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-orange?style=flat-square)
 ![Nmap](https://img.shields.io/badge/-Nmap-0080FF?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square)
-
-
-
