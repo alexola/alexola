@@ -1,7 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?text=whoami&animation=fadeIn&type=waving&color=gradient&height=200&width=auto"/>
 
 ### Hi there 👋 I'm Alex
-As far back as I can remember, I’ve always been curious about how things work—especially when it comes to technology. My journey into **cybersecurity** started with **web development**, which helped me bridge the gap between **coding** and **security**. But everything changed after my first **CTF** (Capture The Flag). I got hooked.
+ *"Stay curious. Break things. Fix them better."*
+
+---
+ 
+## 👨‍💻 About Me
+ 
+Cybersecurity Analyst on a **CSIRT team** with hands-on experience in **incident response** and **alert triage**. I started in web development, which gave me a strong foundation for understanding how systems — and their weaknesses — are built.
+ 
+Outside of work I compete in CTFs, research AI security vulnerabilities, and build offensive tooling. Currently pursuing a **Master's in Cybersecurity** and exploring the intersection of red teaming and blue team operations — purple team is where I'm headed.
+
+---
 
 There’s something truly exciting about **uncovering vulnerabilities** and figuring out how to **mitigate them**—strengthening systems one step at a time. I'm constantly learning through:
 
